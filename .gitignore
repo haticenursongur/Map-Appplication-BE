@@ -1,0 +1,95 @@
+﻿# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+/.idea
+/.vs
+/.vscode
+
+# Logs
+*.log
+*.tlg
+*.wrn
+*.err
+*.out
+*.trx
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Roslyn cache directories
+*.ide/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+build/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Node.js
+node_modules/
+
+# Tools for Visual Studio
+.vscode
+.vscodeignore
+.ionide
+*.ionide
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCop.Cache
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an Android Project
+bin/
+gen/
+[Oo]bj/
+
+# JetBrains Rider
+.idea/
+
+# Fody Weaving
+FodyWeavers.xm
+
+# Auto generated files
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# ASP.NET Core
+wwwroot/
+
+# Resharper
+_ReSharper.Caches/
